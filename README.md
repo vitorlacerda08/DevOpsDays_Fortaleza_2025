@@ -69,6 +69,3 @@ python OpenAI_Assistent_Chat/chat-litellm-app/ChatLiteLLM.py
 
 ## Contribuindo
 Contribuições são bem-vindas! Por favor, sinta-se à vontade para submeter um Pull Request.
-
-## Licença
-[Adicionar informações sobre a licença]
